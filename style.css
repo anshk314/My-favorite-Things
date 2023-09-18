@@ -1,0 +1,25 @@
+.center {
+  text-align: center;
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+html {
+  background-color: crimson;
+}
+
+div {
+  width: 1000px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 80px 80px;
+  border-radius: 25px;
+}
+.fav {
+  color: white;
+  text-align: center;
+}
+ul {
+  width: 125px;
+  margin: auto;
+}
